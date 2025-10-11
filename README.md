@@ -1,6 +1,11 @@
 # Wikidata-review
 This project includes supplementary material for the research work "A systematic review of Wikidata in GLAM institutions".
 
+This work was presented in the form of a poster at the [TPDL conference in Slovenia](https://tpdl2024.nuk.si/) in 2024. It was also presented later at the [Monthly Wikimedia Research Showcase](https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase) 
+
+## Cite this work
+Candela, G., Cuper, M., Holownia, O., Gabriëls, N., Dobreva, M., Mahey, M. (2024). A Systematic Review of Wikidata in GLAM Institutions: a Labs Approach. In: Antonacopoulos, A., et al. Linking Theory and Practice of Digital Libraries. TPDL 2024. Lecture Notes in Computer Science, vol 15178. Springer, Cham. https://doi.org/10.1007/978-3-031-72440-4_4
+
 ## Introduction
 All the items analysed in this work have been included in Wikidata, when not available, using the [Scholia tool](https://scholia.toolforge.org/).
 In total, 37 research articles and conferences were retrieved, most of them published in academic journals. The items have been annotated according to the [Taxonomy of Digital Research Activities in the Humanities (TADIRAH)]({https://vocabs.dariah.eu/tadirah/en/).
