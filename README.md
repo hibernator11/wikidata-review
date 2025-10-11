@@ -8,7 +8,7 @@ Candela, G., Cuper, M., Holownia, O., Gabriëls, N., Dobreva, M., Mahey, M. (202
 
 ## Introduction
 All the items analysed in this work have been included in Wikidata, when not available, using the [Scholia tool](https://scholia.toolforge.org/).
-In total, 37 research articles and conferences were retrieved, most of them published in academic journals. The items have been annotated according to the [Taxonomy of Digital Research Activities in the Humanities (TADIRAH)]({https://vocabs.dariah.eu/tadirah/en/). *Please, note that the Wikidata SPARQL endpoint changed and now it has to be https://query-scholarly.wikidata.org.  
+In total, 37 research articles and conferences were retrieved, most of them published in academic journals. The items have been annotated according to the [Taxonomy of Digital Research Activities in the Humanities (TADIRAH)]({https://vocabs.dariah.eu/tadirah/en/). **Please, note that the Wikidata SPARQL endpoint changed and now it has to be https://query-scholarly.wikidata.org.**  
 
 A SPARQL sentence to create a bubble chart describing the main subject describing the projects is shown below.
 
